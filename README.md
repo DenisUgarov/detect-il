@@ -1,2 +1,16 @@
-# detect-il
-Detect Israel — unfinished test build. Do not rely on it in the field. Data may be inaccurate or incomplete; errors can cause serious injury or death.
+# Detect Israel 0.4.5-beta
+
+> [!WARNING]
+> **НЕ ПОЛАГАЙТЕСЬ НА ПРИЛОЖЕНИЕ В ПОЛЕ.** Это незавершённая бета-версия. Точность и полнота карты, GPS и ограничений не гарантируются. Ошибки или пробелы могут привести к тяжёлым травмам или гибели. Не используйте приложение для решений о входе на участок, металлопоиске, копании или выборе безопасного маршрута. Отсутствие отметки не означает безопасность или разрешение. Приложение не обнаруживает мины и неразорвавшиеся боеприпасы. Сверяйтесь с актуальными официальными источниками и соблюдайте знаки и ограждения на местности.
+>
+> **UNFINISHED BETA — DO NOT RELY ON IT IN THE FIELD.** The map, GPS and restriction data can be inaccurate or incomplete. Errors can cause serious injury or death. Check current official sources and obey on-site warnings.
+>
+> **גרסת בטא לא גמורה — אין להסתמך על היישומון בשטח.** נתוני המפה, המיקום וההגבלות עלולים להיות שגויים או חסרים. טעויות עלולות לגרום לפציעה קשה או למוות. יש לבדוק מקורות רשמיים ולציית לאזהרות בשטח.
+
+## Файлы и обновления
+
+Откройте [GitHub Releases](https://github.com/DenisUgarov/detect-il/releases). В релизе 0.4.5 находятся тестовый APK для Android и полный архив исходного проекта для Android и iOS.
+
+Чтобы перейти с версии 0.4.4, установите APK 0.4.5 вручную. После перехода кнопка «Обновления» проверяет опубликованные версии на GitHub. Установку APK подтверждает Android.
+
+Встроенные границы древностей покрывают только район Хайфы. [Данные муниципалитета Хайфы](https://opendata.haifa.muni.il/dataset/atikot) доступны по лицензии [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
